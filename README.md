@@ -2,6 +2,8 @@
 
 * Frontend
   * 진승현
-* Backend
+* ##Backend
   * 강지용
   * 고기훈
+
+## 2023 07 17 Start
